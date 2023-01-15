@@ -1,1 +1,0 @@
-scilab -nw -f "__main__.sce"
